@@ -7,4 +7,4 @@ for 數字
  file list
  c_add.py
  c_dll.c
- readme
+ c_dll.so
